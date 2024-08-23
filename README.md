@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaboration that will give the wind to fly the wings of my dreams.
 - 📫 My mail address to reach me is badgemukul36@gmail.com
 - 😄 Pronouns: Mr. Mukul
-- ⚡ Fun fact: Last summer I have intern in EI-System company as a Data Scientist. I have really enjoy my traning period and gain konledge about Data Science with Python.
+- ⚡ Fun fact: Last summer I have intern in EI-System company as a Data Scientist. I have really enjoy my traning period and gain knowledge about Data Science with Python.
 
 <!---
 MSBadge/MSBadge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
